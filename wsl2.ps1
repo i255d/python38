@@ -12,3 +12,4 @@ Restart-Computer
 
 wsl --set-default-version 2
 
+Git stutus
