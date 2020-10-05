@@ -1,4 +1,7 @@
 ##  https://youtu.be/-nh9rCzPJ20
+## VENV (Windows)  https://youtu.be/APOPm01BVrk
+## git basics  https://youtu.be/HVsySz-h9r4
+## Unit testing   https://youtu.be/6tNS--WetLI
 import sys
 
 print(sys.version)
